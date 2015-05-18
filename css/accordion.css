@@ -31,7 +31,7 @@ body, html {
     margin:0 auto;
 }
 .ag-content-customer:before,.ag-content-customer:after{
-	content: "";
+    content: "";
     display: block;
     height: 0;
     clear: both;
